@@ -6,7 +6,9 @@ Unlock the picture math solver for your inquiries with [Math AI](https://chromew
 
 🔍  Key Modes
 1️⃣ Step by Step Math Answer: Simplify complex issues through methodical breakdowns, allowing to solve math problems and receive step by step answers.
+
 2️⃣ Tutor AI: Personalized guidance to direct you in solving tasks.
+
 3️⃣ Short Answer: Provides concise solutions to problems without lengthy explanations.
 
 Simply take a picture of a homework, and let the math ai bot handle the rest. The math ai solver picture feature makes it easy to capture and solve even the most challenging homework with graphics. With a focus on providing step-by-step solutions, this extension ensures that you understand each part of the process.
